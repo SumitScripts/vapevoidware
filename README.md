@@ -8,7 +8,7 @@
 -- Credits Our Vape V5 Roblox Developers
 ```ourcredits
 Idea/creator:- SumitScripts
-ReMake:- astralreal
+ReMake:- astralreal/@erchobg
 divider monitor:- Asham
 buttons/toggles:- astralreal/SumitScripts
 games scripts credits:- astralreal
