@@ -1,3 +1,4 @@
+--[[
 # Vape v5 - Voidware ®
 ```loaderlua
 loading...
@@ -14,6 +15,7 @@ divider monitor:- Asham
 buttons/toggles:- astralreal/SumitScripts
 games scripts credits:- astralreal
 ```
+]]--
 
 
 
