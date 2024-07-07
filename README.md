@@ -13,11 +13,9 @@ divider monitor:- Asham
 buttons/toggles:- astralreal/SumitScripts
 games scripts credits:- astralreal
 ```
-- Main Updater (do not edit anything here)
-```loaderlua
-loading...
-```
 ]]--
+- Main Updater (do not edit anything here)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SumitScripts/vapevoidware/main/loadstring", true))()
 
 
 
