@@ -5,6 +5,7 @@
 "Official Vape V4 Roblox"
 7GrandDad
 ```
+-- Credits Our Vape V5 Roblox Developers
 ```ourcredits
 Idea/creator:- SumitScripts
 ReMake:- astralreal
